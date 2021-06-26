@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12323" started-at="2021-06-26T03:05:14Z" finished-at="2021-06-26T03:05:26Z">
+    <groups>
+      <group name="IntegrationTests">
+        <method signature="ManualEntryWithAPI.createNewUser(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestSute.ManualEntryWithAPI@5c3bd550]" name="createNewUser" class="TestSute.ManualEntryWithAPI"/>
+      </group> <!-- IntegrationTests -->
+    </groups>
+    <test name="Default test" duration-ms="12323" started-at="2021-06-26T03:05:14Z" finished-at="2021-06-26T03:05:26Z">
+      <class name="TestSute.ManualEntryWithAPI">
+        <test-method status="PASS" signature="setup()[pri:0, instance:TestSute.ManualEntryWithAPI@5c3bd550]" name="setup" is-config="true" duration-ms="10" started-at="2021-06-26T08:35:14Z" finished-at="2021-06-26T08:35:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="createNewUser(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestSute.ManualEntryWithAPI@5c3bd550]" name="createNewUser" duration-ms="6624" started-at="2021-06-26T08:35:14Z" data-provider="firstDataProvider" finished-at="2021-06-26T08:35:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Biswajit]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Software QA]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[201]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewUser -->
+        <test-method status="PASS" signature="createNewUser(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestSute.ManualEntryWithAPI@5c3bd550]" name="createNewUser" duration-ms="993" started-at="2021-06-26T08:35:20Z" data-provider="firstDataProvider" finished-at="2021-06-26T08:35:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Satyajit]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Secority]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[201]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewUser -->
+        <test-method status="PASS" signature="createNewUser(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestSute.ManualEntryWithAPI@5c3bd550]" name="createNewUser" duration-ms="1206" started-at="2021-06-26T08:35:21Z" data-provider="firstDataProvider" finished-at="2021-06-26T08:35:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Monisa]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Manager]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[201]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewUser -->
+        <test-method status="PASS" signature="createNewUser(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestSute.ManualEntryWithAPI@5c3bd550]" name="createNewUser" duration-ms="2400" started-at="2021-06-26T08:35:23Z" data-provider="firstDataProvider" finished-at="2021-06-26T08:35:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sanjukta]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Data Scientist]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[201]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewUser -->
+        <test-method status="PASS" signature="createNewUser(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestSute.ManualEntryWithAPI@5c3bd550]" name="createNewUser" duration-ms="935" started-at="2021-06-26T08:35:25Z" data-provider="firstDataProvider" finished-at="2021-06-26T08:35:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[CEO]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[400]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewUser -->
+      </class> <!-- TestSute.ManualEntryWithAPI -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
